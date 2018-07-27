@@ -10,4 +10,4 @@ If you're experiencing a bug, please open an issue and I'll look at it as soon a
 
 Easily input emojis with text shortcodes
 
-[Available on the Packix repo](https://repo.packix.com) with one [free](https://repo.packix.com/package/se.nosskirneh.textemojisfree/) and one [paid](https://repo.packix.com/package/se.nosskirneh.textemojis/) package.
+Available on the [Packix repo](https://repo.packix.com) with one [free](https://repo.packix.com/package/se.nosskirneh.textemojisfree/) and one [paid](https://repo.packix.com/package/se.nosskirneh.textemojis/) package.
